@@ -8,6 +8,7 @@
 #import "UIDeviceHardware.h"
 #include <sys/types.h>
 #include <sys/sysctl.h>
+#import <UIKit/UIKit.h>
 
 @implementation UIDeviceHardware
 
